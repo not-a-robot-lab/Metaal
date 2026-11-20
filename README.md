@@ -1,6 +1,6 @@
 Hybrate Texture Synth Voice for Eurorack.
 
-3 virtual squarewave oscillators sent to a XOR gate together with an envelope, output to the DAC that is going thru a Integrator.
+3 virtual squarewave oscillators sent to a XOR gate together with an envelope, output to the DAC that is going thru an Integrator.
 
 Using AVR16DD14 (1 euro) internal 10bit DAC and a TL072 dual opamp.
 
